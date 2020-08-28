@@ -25,10 +25,12 @@ I can't recomend a good calculus book because I've never encountered one. I lear
 * Nonlinear Systems - Khalil
 * Applied Nonlinear Control - Slotine & Li 
 
-## Misc 
+## Non-Technical  
 
 * The Selfish Gene - Dawkins 
-  ** As Dawkin's points out in the early pages of the book, evolution is about survival of the stable. 
+ * As Dawkin's points out in the early pages of the book, evolution is about survival of the stable. 
+
+* The Science of the Artificial - Simon
 
 # Papers
 
