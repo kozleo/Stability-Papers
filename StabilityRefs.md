@@ -41,6 +41,7 @@ I can't recomend a good calculus book because I've never encountered one. I lear
 
 ## Technical
 * On Contraction Analysis For Nonlinear Systems - Slotine & Lohmiller 
+* An observation regarding systems which converge to steady states for all constant inputs, yet become chaotic with periodic inputs
 
 ## Comp/Theory Neuro
 * Stability Conditions for Nonlinear Continuous Neural Nets- Matsuoka
@@ -56,7 +57,7 @@ I can't recomend a good calculus book because I've never encountered one. I lear
 * Stable Recurrent Models
     * Follow up work from Manchester group
 * Dynamical Systems Approaches to Cognition
-* An observation regarding systems which converge to steady states for all constant inputs, yet become chaotic with periodic inputs
+
 
 ## Experimental/Opinion/Mixed Neuro
 * Reproducibility and Variability in Neural Spike Trains - Bialek
