@@ -2,7 +2,7 @@
 
 ## Linear Algebra 
 
-Linear algebra is a must for learning nonlinear dynamical systems theory. That might seem strange--what is the study of *linear* algebra going to tell us about *nonlinear* dynamics? The answer lies in the fact that we have a basically complete theory of linear dynamical systems, and essentially no theory for nonlinear systems. Indeed, the first thing we do when trying to understand a nonlinear system is "linearize" it around some point of interest and then apply linear dynamical systems theory. 
+Linear algebra is a must for learning nonlinear dynamical systems theory. That might seem strange--what is the study of *linear* algebra going to tell us about *nonlinear* dynamics? The answer lies in the fact that we have a basically complete theory of linear dynamical systems, and essentially no theory for nonlinear systems. Indeed, the first thing we do when trying to understand a nonlinear system is fractically "linearize" it around some point of interest and then apply linear dynamical systems theory. 
 
 * Introduction to Dynamical Systems - Luenberger (specifically chapter 4)
 * Linear Algebra - Gilbert Strang 
