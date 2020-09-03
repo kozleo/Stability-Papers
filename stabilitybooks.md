@@ -5,7 +5,7 @@
 Linear algebra is a must for learning nonlinear dynamical systems theory. That might seem strange--what is the study of *linear* algebra going to tell us about *nonlinear* dynamics? The answer lies in the fact that we have a basically complete theory of linear dynamical systems, and essentially no theory for nonlinear systems. Indeed, the first thing we do when trying to understand a nonlinear system is fractically "linearize" it around some point of interest and then apply linear dynamical systems theory. 
 
 * [Introduction to Dynamical Systems - David Luenberger](https://www.amazon.com/Introduction-Dynamic-Systems-David-Luenberger/dp/0471025941) (specifically chapter 4)
-  * If you already know linear algebra, or perhaps just want a refresher, this chapter is a very succinct and well-written, with dynamical systems theory in mind. 
+  * If you already know linear algebra, or perhaps just want a refresher, this chapter is very succinct and well-written, with dynamical systems theory in mind. 
 * [Introduction to Linear Algebra - Gilbert Strang](https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232775/ref=sr_1_1?dchild=1&keywords=Linear+Algebra+-+Gilbert+Strang&qid=1599086644&s=books&sr=1-1)
   * Covers linear algebra at the introductory level. The standard textbook basically everybody uses when first learning this stuff.
 * [Matrix Analysis - Roger A. Horn & Charles R. Johnson](https://www.amazon.com/Matrix-Analysis-Second-Roger-Horn/dp/0521548233/ref=sr_1_1?dchild=1&keywords=Matrix+Analysis+-+Horn+%26+Johnson&qid=1599086674&s=books&sr=1-1)
@@ -28,7 +28,7 @@ I can't recomend a good introductory calculus textbook because I've never met on
   * This is the standard into to nonlinear dynamics and for good reason. Strogatz is an amazing writer.
 * [Nonlinear Systems - Hassan Khalil](https://www.amazon.com/Nonlinear-Systems-3rd-Hassan-Khalil/dp/0130673897/ref=sr_1_1?dchild=1&keywords=Nonlinear+Systems+-+Khalil&qid=1599087028&s=books&sr=1-1)
 * [Nonlinear Systems Analysis - Mathukumalli Vidyasagar](https://www.amazon.com/Nonlinear-Systems-Analysis-Classics-Mathematics/dp/0898715261)
-* [Applied Nonlinear Control - Slotine & Li](https://www.amazon.com/Applied-Nonlinear-Control-Jean-Jacques-Slotine/dp/0130408905/ref=sr_1_1?crid=2ZOZPAPC275O&dchild=1&keywords=applied+nonlinear+control&qid=1599087146&sprefix=applied+nonlinear%2Caps%2C179&sr=8-1)
+* [Applied Nonlinear Control - Jean-Jacques Slotine & Weiping Li](https://www.amazon.com/Applied-Nonlinear-Control-Jean-Jacques-Slotine/dp/0130408905/ref=sr_1_1?crid=2ZOZPAPC275O&dchild=1&keywords=applied+nonlinear+control&qid=1599087146&sprefix=applied+nonlinear%2Caps%2C179&sr=8-1)
   * I used this textbook when I took MIT 2.152 (Nonlinear Control System Design). The book is exceptionally clear and contains a lot of wonderful problems. This is where I really learned stability theory. 
 
 
