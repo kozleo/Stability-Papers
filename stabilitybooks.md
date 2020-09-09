@@ -32,7 +32,16 @@ I can't recomend a good introductory calculus textbook because I've never met on
   * I used this textbook when I took MIT 2.152 (Nonlinear Control System Design). The book is exceptionally clear and contains a lot of wonderful problems. This is where I really learned stability theory. 
 
 
+## Honorable Mentions
+These are books that I can't claim to have read deeply, so I put them over here, as opposed to up there. I've found these books useful as references mostly, where there's some particular theorem or chapter or something that I want to look up. 
 
+* Introduction to Matrix Analysis - Richard Bellman
+* Stability Theory of Differential Equations - Richard Bellman
+* Matrix Analysis - Bhatia
+* Linear Matrix Inequalities in Control - Boyd et al
+* Rejendra Bhatia-Positive Definite Matrices
+* Applied Optimal Estimation - Gelb et al
+* Matrix Diagonal Stability in Systems and Computation - Kaszkurewicz & Bhaya
 
 
 
